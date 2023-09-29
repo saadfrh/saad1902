@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @saad1902
-- 👀 I’m interested in programming & cyber security 
+- 👋 Hi, I’m Saad Farah
+- 👀 I’m interested in programming & cyber security & GIS 
 - 🌱 I’m currently learning coputer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
