@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saad Farah
-- 👀 I’m interested in programming, cyber security and GIS 
-- 🌱 I’m currently learning coputer science 
+- 👀 I’m interested in Machine Learning & Deep Learning, programming, cyber security and GIS 
+- 🌱 I’m currently learning Computer Science & Data Science
 - 💞️ I’m looking to collaborate on my dream
 - 📫 How to reach me ...
 
